@@ -36,8 +36,11 @@
 -   php -->
 ### Связаться со мной:
 
-HeadHunter <br/>
-https://saratov.hh.ru/applicant/resumes/view?resume=ccc48cadff0b4e98890039ed1f62624f696d6c
+[HeadHunter][headhunter]
+[telegram][telegram]
+
+[telegram]: https://t.me/goodvman
+[headhunter]: https://saratov.hh.ru/applicant/resumes/view?resume=ccc48cadff0b4e98890039ed1f62624f696d6c
 
 <!--
 **dima18127/dima18127** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
