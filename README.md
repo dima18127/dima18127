@@ -1,6 +1,4 @@
-# Привет
-
-## Меня зовут Дмитрий
+<img alt="HTML5" width="26px" src="./src/img/my.Name.png" />
 
 ### Я junior Frontend разработчик
 
