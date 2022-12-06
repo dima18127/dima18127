@@ -2,7 +2,7 @@
 
 ### Я junior Frontend разработчик
 
-### Hello👋, i'm web-developer and i have sufficient knowledge of English to comminicate with you send me a message to find out more 📨
+### Hello👋, i'm web-developer and i have sufficient knowledge of English to communicate with you send me a message to find out more 📨
 
 -   💻 Веб разработчик
 
