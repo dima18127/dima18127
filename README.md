@@ -4,7 +4,7 @@
 
 ### Я junior Frontend разработчик
 
-### Hi there 👋
+### Hello👋, i'm web-developer and i have sufficient knowledge of English to comminicate with you send me a message to find out more 📨
 
 -   💻 Веб разработчик
 
@@ -33,11 +33,9 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br/>
-
+<!-- 
 ### Смотрю в будущее
-git
--   php
-
+-   php -->
 ### Связаться со мной:
 
 HeadHunter <br/>
