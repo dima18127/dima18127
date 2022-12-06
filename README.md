@@ -1,4 +1,13 @@
+# Привет
+
+## Меня зовут Дмитрий
+
+### Я junior Frontend разработчик
+
 ### Hi there 👋
+
+- Изучаю React, Vue
+
 
 <!--
 **dima18127/dima18127** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
