@@ -5,15 +5,19 @@
 ### Я junior Frontend разработчик
 
 ### Hi there 👋
-- 
-- Изучаю React, Vue
 
+-   💻 Веб разработчик
+-   Освоил пrid/flex/bootstrap верстку по макетам figma
+-   Использую технологию БЭМ и SCSS препроцессор
+-   ☀️ Преисполняюсь в своём познании React , Vue
+-   👯 Буду рад любому сотрудничеству и дельному совету
 
 ### Языки и инструменты
+
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="./src/img/html.svg" />
-<img align="left" alt="CSS3" width="26px" src="./src/img/css.svg" />
-<img align="left" alt="Sass" width="26px" src="./src/img/sass.svg" />
+<img align="left" alt="HTML5" width="26px" src="src/img/html.svg" />
+<img align="left" alt="CSS3" width="26px" src="src/img/css.svg" />
+<img align="left" alt="Sass" width="26px" src="src/img/sass.svg" />
 <img align="left" alt="Gulp" width="26px" src="./src/img/gulpb.svg" />
 <img align="left" alt="JavaScript" width="26px" src="./src/img/jsb.svg" />
 <img align="left" alt="TypeScript" width="26px" src="./src/img/tsb.svg" />
@@ -29,7 +33,7 @@
 
 ### Смотрю в будущее
 
-Заинтересован  в:
+Заинтересован в:
 
 -[Django][django]
 
@@ -37,11 +41,11 @@
 
 -[Flutter(Мобильные приложения)][flutter]
 
-
 ### Связаться со мной:
 
 HeadHunter <br/>
 https://saratov.hh.ru/applicant/resumes/view?resume=ccc48cadff0b4e98890039ed1f62624f696d6c
+
 <!--
 **dima18127/dima18127** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
