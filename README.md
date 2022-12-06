@@ -1,4 +1,4 @@
-<img alt="HTML5" width="26px" src="./src/img/my.Name.png" />
+<img alt="HTML5" width="26px" src="header.png" />
 
 ### Я junior Frontend разработчик
 
