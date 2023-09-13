@@ -1,5 +1,5 @@
 <img alt="HTML5" width="100%" src="header.png" />
-### [![codewars](https://www.codewars.com/users/dima18127/badges/large)](https://www.codewars.com/users/dima18127)
+### йоу [![codewars](https://www.codewars.com/users/dima18127/badges/large)](https://www.codewars.com/users/dima18127)
 
 ### Я junior Frontend разработчик
 
