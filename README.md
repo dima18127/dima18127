@@ -5,7 +5,7 @@
 ### Hello👋, i'm web-developer and i have sufficient knowledge of English to communicate with you send me a message to find out more 📨
 
 -   💻 Веб разработчик
-
+[![codewars](https://www.codewars.com/users/dima18127/badges/large)](https://www.codewars.com/users/dima18127)
 обладаю следующими навыками:
 
 -   ✅ Умение верстать ( с помощью grid flex bootstrap )
