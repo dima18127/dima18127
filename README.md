@@ -1,9 +1,9 @@
 <img alt="HTML5" width="100%" src="header.png" />
 
 
-### Я junior Frontend разработчик
+### I'm junior+ Frontend developer
 [![codewars](https://www.codewars.com/users/dima18127/badges/large)](https://www.codewars.com/users/dima18127)
-### Hello👋, i'm web-developer and i have sufficient knowledge of English to communicate with you send me a message to find out more 📨
+### Hello👋, i'm web-developer and i have sufficient knowledge of English for our operation  📨
 
 -   💻 Веб разработчик
 обладаю следующими навыками:
