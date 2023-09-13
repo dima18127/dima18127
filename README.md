@@ -1,8 +1,8 @@
 <img alt="HTML5" width="100%" src="header.png" />
-[![codewars](https://www.codewars.com/users/dima18127/badges/large)](https://www.codewars.com/users/dima18127)
+### [![codewars](https://www.codewars.com/users/dima18127/badges/large)](https://www.codewars.com/users/dima18127)
 
 ### Я junior Frontend разработчик
-[![codewars](https://www.codewars.com/users/dima18127/badges/large)](https://www.codewars.com/users/dima18127)
+
 ### Hello👋, i'm web-developer and i have sufficient knowledge of English to communicate with you send me a message to find out more 📨
 
 -   💻 Веб разработчик
