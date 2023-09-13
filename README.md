@@ -1,18 +1,16 @@
 <img alt="HTML5" width="100%" src="header.png" />
 
 
-### I'm junior+ Frontend developer
+### I'm junior+ Frontend developer // javaScript/TypeScript
 [![codewars](https://www.codewars.com/users/dima18127/badges/large)](https://www.codewars.com/users/dima18127)
 ### Hello👋, i'm web-developer and i have sufficient knowledge of English for our operation  📨
 
--   💻 Веб разработчик
-обладаю следующими навыками:
-
--   ✅ Умение верстать ( с помощью grid flex bootstrap )
--   👊 Знание и применение технологии БЭМ и так же SCSS препроцессора.
--   📌 Уверенная работа с Git, репозитариями, node.js.
--   ☀️ Преисполняюсь в своём познании React , Vue
--   👯 Буду рад любому сотрудничеству и дельному совету
+💻Let introduce my skills :
+-   ✅ develop HTML code , using: GRID/FLEX/BOOTSTRAP
+-   👊 Methodology / BEM and SCSS preprocessor 
+-   📌 Operation with Git, depositaries, node.js.
+-   ☀️ I Have Choseen React, but familar with Vue.
+-   👯 I will be glad to cooperate and practical advice.
 
 ### Языки и инструменты
 
@@ -33,10 +31,10 @@
 <br/>
 <br/>
 <!-- 
-### Смотрю в будущее
--   php -->
+### Look in the future
+-   Next.js , React Native
 
-### Связаться со мной:
+### Contact:
 
 [HeadHunter][headhunter]
 <br/>
